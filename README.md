@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! My name is Veysel</h1>
+<h1 align="center">Hi 👋! I'm Veysel</h1>
 
 ###
 
-<h6 align="left">👨🏻‍🎓 I have graduated from Fatih Sultan Mehmet Foundation University with a bachelor's degree in Electrical-Electronics Engineering.<br><br>🔭 Currently, I am trying to develop java-spring-boot projects that will help me improve myself professionally.</h6>
+<h3 align="left">👨🏻‍🎓 I have graduated from Fatih Sultan Mehmet Foundation University with a bachelor's degree in Electrical-Electronics Engineering.<br><br>🔭 Currently, I am trying to develop java-spring-boot projects that will help me improve myself professionally.</h3>
 
 ###
 
