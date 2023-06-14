@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">👨🏻‍🎓 I have graduated from Fatih Sultan Mehmet Foundation University with a bachelor's degree in Electrical-Electronics Engineering.<br><br>🔭 Currently, I am trying to develop java-spring-boot projects that will help me improve myself professionally.</h5>
+<h5 align="left">👨🏻‍🎓 I have graduated from Fatih Sultan Mehmet Foundation University with a bachelor's degree in Electrical-Electronics Engineering.<br><br></h5>
 
 ###
 
