@@ -3,13 +3,7 @@
 ###
 
 <h5 align="left">👨🏻‍🎓 I have graduated from Fatih Sultan Mehmet Foundation University with a bachelor's degree in Electrical-Electronics Engineering.<br><br></h5>
-<h5 align="left">Skill Highlights
-
-• Java 
-• Spring Boot
-• Spring Data JPA, Hibernate
-
-<br><br></h5>
+<h5 align="left">Skill Highlights • Java • Spring Boot• Spring Data JPA, Hibernate<br><br></h5>
 
 ###
 
